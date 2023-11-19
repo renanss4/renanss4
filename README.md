@@ -1,10 +1,12 @@
 ## Hello World 👋🏾
 
-Welcome to my profile, I'm **Renan** and I am passionate about inovation, data management and AI 🙋🏾‍♂️
-          
+Welcome to my profile, I'm **Renan** and I love everything involving innovation, data management and AI 🙋🏾‍♂️
+
+---
+
 <!-- ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanss4&show_icons=true&theme=dark) -->
 
-![Renan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanss4&layout=compact&theme=dark&)
+![Renan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanss4&layout=compact&theme=dark)
 
 ---
 
