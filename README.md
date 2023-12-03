@@ -2,6 +2,8 @@
 
 Welcome to my profile, I'm **Renan** and I love everything involving innovation, data management and AI 🙋🏾‍♂️
 
+“Nothing in the world will take the place of persistence. Talent will not. The world is full of unsuccessful people with talent. Education will not. The world is full of educated derelicts. Genius will not. Unrewarded genius is almost a proverb. The slogan press on has solved and always will solve the problems of the human race.”
+
 ---
 
 <!-- ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanss4&show_icons=true&theme=dark) -->
@@ -9,10 +11,7 @@ Welcome to my profile, I'm **Renan** and I love everything involving innovation,
 ![Renan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanss4&layout=compact&theme=dark)
 
 ---
-
-<div text-align="center">
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-silva04/)
+[![Linkedin Badge](https://img.shields.io/badge/-renanss4-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/renan-silva04/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:renansantos.silva04@outlook.com)
-  
-</div>
+
