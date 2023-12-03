@@ -13,5 +13,4 @@ Welcome to my profile, I'm **Renan** and I love everything involving innovation,
 ---
   
 [![Linkedin Badge](https://img.shields.io/badge/-renanss4-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/renan-silva04/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:renansantos.silva04@outlook.com)
 
