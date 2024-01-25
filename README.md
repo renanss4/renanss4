@@ -16,7 +16,7 @@ I also like everything about code development 💻
 
 ---
 
-### Contact me
+### Contact me on LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/-RenanSilva-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/renan-silva4/)
 
