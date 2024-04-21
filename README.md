@@ -12,7 +12,7 @@ I also like everything about code development. Currently, I focus my studies on 
 
 <!-- ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanss4&show_icons=true&theme=dark) -->
 
-<!-- ![Renan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanss4&layout=compact&theme=dark) -->
+![Renan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanss4&layout=compact&theme=dark)
 
 ---
 
